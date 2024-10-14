@@ -1,6 +1,7 @@
 <em> Conversor de Divisas </em>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)       ![Version](https://img.shields.io/badge/Version-1.0-orange)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)       ![Version](https://img.shields.io/badge/Version-1.0-orange) ![Build Status](https://img.shields.io/badge/Build-Success-brightgreen)
+
 
 
 
